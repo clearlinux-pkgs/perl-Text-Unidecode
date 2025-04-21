@@ -7,7 +7,7 @@
 #
 Name     : perl-Text-Unidecode
 Version  : 1.30
-Release  : 26
+Release  : 27
 URL      : https://cpan.metacpan.org/authors/id/S/SB/SBURKE/Text-Unidecode-1.30.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/S/SB/SBURKE/Text-Unidecode-1.30.tar.gz
 Summary  : 'Provide plain ASCII transliterations of Unicode text'
